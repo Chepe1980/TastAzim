@@ -5,4 +5,5 @@ streamlit
 scipy
 xarray 
 pandas
+openpyxl
 warnings
