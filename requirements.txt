@@ -1,0 +1,8 @@
+numpy 
+matplotlib
+plotly
+streamlit
+scipy
+xarray 
+pandas
+warnings
